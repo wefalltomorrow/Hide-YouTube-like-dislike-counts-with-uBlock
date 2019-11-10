@@ -1,3 +1,5 @@
+! Title: YouTube Like and Dislike Hider
+! Description: Hides the like and dislike counts on YouTube whilst still keeping the buttons, as well hiding the like/dislike ratio bar underneath the buttons
 youtube.com##ytd-sentiment-bar-renderer
 !Hides the blue like/dislike ratio bar underneath the like/dislike buttons
 youtube.com##yt-formatted-string
