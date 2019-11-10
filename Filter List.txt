@@ -4,3 +4,4 @@ youtube.com##ytd-sentiment-bar-renderer
 !Hides the blue like/dislike ratio bar underneath the like/dislike buttons
 youtube.com##yt-formatted-string[id][aria-label]
 !Hides the like/dislike counts
+
